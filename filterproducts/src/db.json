@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Red T-Shirt",
+      "price": 19.99,
+      "color": "red",
+      "available": true,
+      "description": "Comfortable cotton red t-shirt."
+    },
+    {
+      "id": 2,
+      "name": "Blue Jeans",
+      "price": 49.99,
+      "color": "blue",
+      "available": false,
+      "description": "Classic fit blue denim jeans."
+    },
+    {
+      "id": 3,
+      "name": "Black Sneakers",
+      "price": 89.99,
+      "color": "black",
+      "available": true,
+      "description": "Lightweight black running sneakers."
+    },
+    {
+      "id": 4,
+      "name": "White Hoodie",
+      "price": 39.99,
+      "color": "white",
+      "available": true,
+      "description": "Soft fleece hoodie in white."
+    },
+    {
+      "id": 5,
+      "name": "Green Cap",
+      "price": 14.99,
+      "color": "green",
+      "available": false,
+      "description": "Adjustable green baseball cap."
+    },
+    {
+      "id": 6,
+      "name": "Yellow Backpack",
+      "price": 59.99,
+      "color": "yellow",
+      "available": true,
+      "description": "Durable yellow travel backpack."
+    },
+    {
+      "id": 7,
+      "name": "Gray Jacket",
+      "price": 109.99,
+      "color": "gray",
+      "available": true,
+      "description": "Water-resistant gray jacket."
+    },
+    {
+      "id": 8,
+      "name": "Purple Scarf",
+      "price": 12.99,
+      "color": "purple",
+      "available": false,
+      "description": "Soft knitted purple scarf."
+    },
+    {
+      "id": 9,
+      "name": "Orange Shorts",
+      "price": 24.99,
+      "color": "orange",
+      "available": true,
+      "description": "Lightweight orange summer shorts."
+    },
+    {
+      "id": 10,
+      "name": "Pink Socks",
+      "price": 6.49,
+      "color": "pink",
+      "available": true,
+      "description": "Warm and cozy pink socks."
+    },
+    {
+      "id": 11,
+      "name": "Silver Watch",
+      "price": 129.99,
+      "color": "silver",
+      "available": false,
+      "description": "Stylish silver wristwatch."
+    },
+    {
+      "id": 12,
+      "name": "Gold Necklace",
+      "price": 199.99,
+      "color": "gold",
+      "available": true,
+      "description": "Elegant gold necklace with pendant."
+    },
+    {
+      "id": 13,
+      "name": "Brown Belt",
+      "price": 22.99,
+      "color": "brown",
+      "available": true,
+      "description": "Leather brown belt for everyday wear."
+    },
+    {
+      "id": 14,
+      "name": "Navy Hat",
+      "price": 17.99,
+      "color": "navy",
+      "available": false,
+      "description": "Navy blue flat-brim hat."
+    },
+    {
+      "id": 15,
+      "name": "Turquoise Bottle",
+      "price": 15.99,
+      "color": "turquoise",
+      "available": true,
+      "description": "Reusable turquoise water bottle."
+    },
+    {
+      "id": 16,
+      "name": "Black Gloves",
+      "price": 11.99,
+      "color": "black",
+      "available": true,
+      "description": "Warm and durable black winter gloves."
+    },
+    {
+      "id": 17,
+      "name": "Red Sneakers",
+      "price": 92.99,
+      "color": "red",
+      "available": false,
+      "description": "Sporty red sneakers with soft soles."
+    },
+    {
+      "id": 18,
+      "name": "Blue Jacket",
+      "price": 119.99,
+      "color": "blue",
+      "available": true,
+      "description": "Windproof blue outdoor jacket."
+    },
+    {
+      "id": 19,
+      "name": "White Shorts",
+      "price": 21.99,
+      "color": "white",
+      "available": true,
+      "description": "Breathable white shorts for summer."
+    },
+    {
+      "id": 20,
+      "name": "Green Hoodie",
+      "price": 44.99,
+      "color": "green",
+      "available": false,
+      "description": "Comfortable green hoodie with pockets."
+    }
+  ]
+}
